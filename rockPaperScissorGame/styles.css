@@ -1,0 +1,21 @@
+
+
+.game-container {
+   width: 500px;
+   margin: 0 auto;
+   text-align: center;
+ }
+ 
+ .score {
+   margin: 20px 0;
+ }
+ 
+ .choices {
+   display: flex;
+   justify-content: space-around;
+ }
+ 
+ .result {
+   margin-top: 20px;
+ }
+ 
