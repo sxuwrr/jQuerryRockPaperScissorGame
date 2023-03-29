@@ -5,3 +5,5 @@ then make sure put jQuerry CDN to the HTML file
 there u have it
 
 goodluck
+
+# CSS not included
